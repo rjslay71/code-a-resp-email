@@ -1,1 +1,1 @@
-# code-a-resp-email
+# Create-A-Responsive-Email-Template
